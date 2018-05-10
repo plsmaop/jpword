@@ -1,0 +1,13 @@
+.navbar-brand {
+  font-weight: bold;
+}
+
+.navBar {
+  margin-top:2%;
+  margin-bottom: 4%;
+}
+
+.navbar {
+  background-color: rgb(240, 252, 255);
+  border-radius: 0.5em;
+}
